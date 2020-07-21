@@ -1,0 +1,7 @@
+classes=8
+train=data/trainlabels.txt
+valid=data/vallabels.txt
+test=data/testlabels.txt
+names=data/rbc.names
+backup=backup/
+eval=coco
